@@ -1,0 +1,2 @@
+data:{"status":"success","data":{"departments":[{"bank":{"code":"000","department":{"code":"099/9999"}},"exchangeRates":[{"baseCurrency":"XAU","quoteCurrency":"RUB","dateTime":"2025-01-12T00:04:00+03:00","lifeTimeInSec":"300","isFast":false,"isCrossRate":false,"segmentType":"REGULAR","rates":[{"sumFrom":"0","buyCashless":"1.630000","sellCashless":"2.560000","buyChangeDir":"Up","sellChangeDir":"Up"}]}]}]}}
+
